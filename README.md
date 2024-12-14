@@ -30,7 +30,8 @@ The following platforms are integrated to provide market data:
 - **DeDust**
 - **Megaton**
 - **Tegro**
-- 
+
+  
 ### Real-Time Price Fetching
 - Continuously fetches live Ton prices to ensure trades are executed with up-to-date data.
 
