@@ -15,6 +15,22 @@ This open-source, AI-powered bot is a versatile tool designed to run seamlessly 
 
 ## Features
 
+- Connects to multiple DEXs on the TON blockchain
+- Monitors price feeds and volume data
+- Runs a variety of trading strategies (see list below)
+- Identifies potential trading opportunities based on user-defined parameters
+- Offers a simple web interface to display current market information and detected signals
+
+## Supported Platforms
+
+The following platforms are integrated to provide market data:
+
+- **TonSwap**
+- **Stonfi**
+- **DeDust**
+- **Megaton**
+- **Tegro**
+- 
 ### Real-Time Price Fetching
 - Continuously fetches live Ton prices to ensure trades are executed with up-to-date data.
 
