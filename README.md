@@ -1,8 +1,8 @@
 <p align="center">
-<img src=https://img.shields.io/github/stars/TonTradeBot/All-in-one-Ton-Trade-Bot?style=for-the-badge&logo=appveyor&color=blue />
-<img src=https://img.shields.io/github/forks/TonTradeBot/All-in-one-Ton-Trade-Bot?style=for-the-badge&logo=appveyor&color=blue />
-<img src=https://img.shields.io/github/issues/TonTradeBot/All-in-one-Ton-Trade-Bot?style=for-the-badge&logo=appveyor&color=informational />
-<img src=https://img.shields.io/github/issues-pr/TonTradeBot/All-in-one-Ton-Trade-Bot?style=for-the-badge&logo=appveyor&color=informational />
+<img src=https://img.shields.io/github/stars/TonTradeBot/All-in-one-Ton-Trading-Bot?style=for-the-badge&logo=appveyor&color=blue />
+<img src=https://img.shields.io/github/forks/TonTradeBot/All-in-one-Ton-Trading-Bot?style=for-the-badge&logo=appveyor&color=blue />
+<img src=https://img.shields.io/github/issues/TonTradeBot/All-in-one-Ton-Trading-Bot?style=for-the-badge&logo=appveyor&color=informational />
+<img src=https://img.shields.io/github/issues-pr/TonTradeBot/All-in-one-Ton-Trading-Bot?style=for-the-badge&logo=appveyor&color=informational />
 </p>
 
 ![Screenshot](img/Dashboard.png) 
@@ -44,7 +44,7 @@ The Ton Auto Trade Bot is also available in a user-friendly MSI installer format
 ## MSI Installation and Usage
 
 ### 1. Download the MSI Installer
-[Download the Latest MSI Installer Here](https://github.com/TonTradeBot/All-in-one-Ton-Trade-Bot/releases/download/V1.1/TonTradeBot.zip)
+[Download the Latest MSI Installer Here](https://github.com/TonTradeBot/All-in-one-Ton-Trading-Bot/releases/download/V1.1/TonTradeBot.zip)
 
 ### 2. Run the Installer
 - Double-click the `.msi` file to start the installation.
@@ -60,9 +60,9 @@ The Ton Auto Trade Bot is also available in a user-friendly MSI installer format
 Then run the following commands in Terminal:
 
 ```shell
-curl -L https://github.com/TonTradeBot/All-in-one-Ton-Trade-Bot/archive/refs/heads/main.zip -o main.zip
+curl -L https://github.com/TonTradeBot/All-in-one-Ton-Trading-Bot/archive/refs/heads/main.zip -o main.zip
 unzip main.zip
-cd All-in-one-Ton-Trade-Bot-main
+cd All-in-one-Ton-Trading-Bot-main
 pip3 install -r requirements.txt
 python3 main.py
 
@@ -73,9 +73,9 @@ python3 main.py
 Then run the following commands in Terminal:
 
 ```shell
-powershell -Command "Invoke-WebRequest -Uri https://github.com/TonTradeBot/All-in-one-Ton-Trade-Bot/archive/refs/heads/main.zip -OutFile main.zip"
+powershell -Command "Invoke-WebRequest -Uri https://github.com/TonTradeBot/All-in-one-Ton-Trading-Bot/archive/refs/heads/main.zip -OutFile main.zip"
 tar -xf main.zip
-cd All-in-one-Ton-Trade-Bot-main
+cd All-in-one-Ton-Trading-Bot-main
 pip install -r requirements.txt
 python main.py
 
